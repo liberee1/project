@@ -51,7 +51,5 @@ if(isset($_POST['BIIKA']))
         <button>Submit</button>
         <a href="home.html" style="color: red; font-style: 15px;">Back to Home</a>
         </form>
-
-        
     </nav>
 </body>
