@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<head>
+  <body>
+    var computation;
+    var computation = prompt("enter computation( either +, /, *-): ");
+  <script>calculator</script>
+  var prev = parseFloat(this.previousOperand);
+   var current = parseFloat(this.currentOperand);
+   <script src="calculator.js"></script>
+   <script>calculator</script>
+    if (isNaN(prev) || isNaN(current)) return
+    switch (this.operation) {
+      case '+':
+        compute = prev + current;
+        break;
+      case '-':
+        compute = prev - current;
+        break;
+      case '*':
+        compute = prev * current;
+        break;
+      case '÷':
+        compute = prev / current;
+        break;
+      default:
+        return
+    }
+    this.currentOperand = compute
+    this.operation = undefined
+    this.previousOperand = ''
+  }
+  </body>
+  </html>

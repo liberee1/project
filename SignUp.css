@@ -1,0 +1,38 @@
+
+body{
+    background-color: pink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color: white ; 
+    font-style: normal; 
+    padding-bottom: 2rem; 
+    padding-top: 3rem;
+}
+.nav{
+    text-align: center; 
+    box-sizing: border-box; 
+    background-color: black; 
+    width: 30%; 
+    margin-left: 18rem; 
+    border-radius: 16px;
+}
+form{
+    padding-bottom: 53rem; 
+    color:white
+}
+input{
+    padding: .5rem .3rem;
+    margin-bottom: 2rem;
+    border: none;
+}
+button{
+    background-color: green;
+    border-radius: 25px; 
+    color: white; 
+    padding: 2rem 1rem;
+    margin-top: 1rem;
+    font-weight: bolder;
+    font-size: 1rem;
+    border: none;
+}

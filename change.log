@@ -1,0 +1,20 @@
+<DOCTYPE.html> 
+<head>
+<title><b>my website:online selling</b></title>
+</head>
+<body>
+<form>
+<p>NAME:<input type="text" name=""size="10"></p>
+<p>DOB:<input type="date" name=""size="10"></p>
+<p><input type="radio" name=""gender"value="male" checked>M<br></p>
+<p><input type="radio" name=""gender"value="female" checked>F<br></p>
+<p>PASSWORD:<input type="PASSWORD" name=""size="10"></p>
+<p>SUBMIT:<input type="submit" name=""value="10"></p>
+<p>UPLOAD:<input type="file" name=""size="10"></p>
+table border="1"width="20"height="20">
+<tr>
+<td><th>NAME</th></td>
+<td><th>NUM</th><td>
+<td><th>DOB</th></td>
+</tr>
+<td><th>LIBEREE</th></td>
