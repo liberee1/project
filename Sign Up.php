@@ -33,6 +33,7 @@ if(isset($_POST['BIIKA']))
 <html>
 <head>
     <title>SIGN UP</title>
+    
     <link rel="stylesheet"href="SignUp.css">
 </head>
 <body>
